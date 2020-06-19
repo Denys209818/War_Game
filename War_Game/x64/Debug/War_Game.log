@@ -1,0 +1,10 @@
+﻿  Archer.cpp
+  funct.cpp
+  Mag.cpp
+  Source.cpp
+C:\Users\Denis\Desktop\Новая папка\War_Game\War_Game\Source.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Swordsman.cpp
+  War.cpp
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\War_Game\War_Game\Source.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  War_Game.vcxproj -> C:\Users\Denis\Desktop\Новая папка\War_Game\x64\Debug\War_Game.exe
